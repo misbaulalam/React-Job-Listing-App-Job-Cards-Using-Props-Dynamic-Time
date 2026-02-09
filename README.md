@@ -3,8 +3,6 @@
 A modern **React** application that displays job listings in a card format.  
 Each card shows company info, job title, experience level, job type, salary, location, and how many days ago the job was posted.
 
-This project is perfect for showcasing your **React skills** and **frontend UI development**.
-
 ---
 
 ## Features
